@@ -17,4 +17,4 @@
 * **git tag –a _v1.0 –m "minha primeira tag"_**  cria uma tag para marcar o ponto atual
 * **git tag**  Para ver as tags criadas
 * **git show _v1.0_**  Para ver informações sobre uma tag específica, como a v1.0
-* **git push origin --tags**  "empurrar", ou seja, publicar as tags no repositório remoto
+* **git push origin --tags**  "Empurrar", ou seja, publicar as tags no repositório remoto
