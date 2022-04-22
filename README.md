@@ -4,3 +4,4 @@
 readme exemplo
 
 lembreido comando: git commit
+lembrei do comando: git status
